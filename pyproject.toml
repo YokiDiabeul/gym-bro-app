@@ -8,6 +8,7 @@ authors = ["Alecsandre Antoine <diabeul@live.fr>"]
 python = "^3.8"
 Flask = "^2.0.2"
 Flask-SQLAlchemy = "^2.5.1"
+gunicorn = "^20.1.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
