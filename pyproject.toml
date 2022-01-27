@@ -2,7 +2,7 @@
 name = "gym-bro-app"
 version = "0.1.0"
 description = ""
-authors = ["Alecsandre Antoine <alecsandre.antoine@ses.com>"]
+authors = ["Alecsandre Antoine <diabeul@live.fr>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
